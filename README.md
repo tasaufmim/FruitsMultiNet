@@ -4,4 +4,4 @@ The breakthrough of smart supply chain systems and the rapid adoption of automat
 
 Dataset URL: https://www.kaggle.com/datasets/shimulmbstu/fruitsdataset
 
-Mobile App Lin: 
+Mobile App Link: 
